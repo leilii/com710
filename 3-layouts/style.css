@@ -1,0 +1,25 @@
+nav ul {
+    background:black;
+
+}
+nav a:hover{
+
+    color:white;
+
+}
+a:link {
+    text-decoration: none;
+    color: white;
+  }
+  nav ul li{
+      list-style: none;
+      display:inline-block;
+      padding: 10px;
+      
+  }
+  #home{
+      background: red;
+  }
+  nav ul{
+      padding:0;
+  }
