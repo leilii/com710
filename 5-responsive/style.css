@@ -1,0 +1,44 @@
+body{
+    background: 	#d3d0d0;
+}
+nav ul {
+    background:black;
+
+}
+nav a:hover{
+
+    color:white;
+
+}
+a:link {
+    text-decoration: none;
+    color: white;
+  }
+  nav ul li{
+      list-style: none;
+      display:inline-block;
+      padding: 10px;
+      
+  }
+  #home{
+      background: red;
+  }
+  nav ul{
+      padding:0;
+  }
+  section{
+      border: 4px solid palevioletred;
+      background:white;
+      margin: 10px;
+      
+  }
+  .mydiv{
+    width: 150px;
+    height: 250px;
+  }
+  #myname{
+    background: 	#d3d0d0;
+    margin: 5px;
+    padding: 5px;
+  
+  }
